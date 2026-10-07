@@ -16,12 +16,12 @@ information.
 
 ## 1. Who We Are
 
-Stronghold Mastery is operated by ghxstinthesystem, an individual based in the
+Stronghold Mastery is operated by ▽ 𝕘𝕙𝕩𝕤𝕥, an individual based in the
 United Kingdom, who is the **data controller** for the personal data described
 in this policy ("we," "us," "our").
 
 Contact: **StrongholdsSupport@shkbot.com**, the support server
-(https://discord.gg/5eHFZybr6n), or the operator on Discord (ghxstinthesystem).
+(https://discord.gg/5eHFZybr6n), or the operator on Discord (▽ 𝕘𝕙𝕩𝕤𝕥).
 
 ## 2. Information We Collect
 
@@ -149,7 +149,7 @@ manifestly unfounded or excessive.
 
 If you are unhappy with how we handle your data, please contact us first so we
 can try to put it right. You also have the right to complain to the UK
-Information Commissioner's Office (ICO) at https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/
+Information Commissioner's Office (ICO) at https://ico.org.uk/make-a-complaint/data-protection-complaints/
 or on 0303 123 1113.
 
 ## 10. Children
@@ -184,4 +184,4 @@ version is always published at this location.
 For questions about this policy or to exercise your rights, email
 **StrongholdsSupport@shkbot.com**, join the support server
 (https://discord.gg/5eHFZybr6n), or contact the operator on Discord
-(ghxstinthesystem).
+(▽ 𝕘𝕙𝕩𝕤𝕥).
