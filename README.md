@@ -21,7 +21,7 @@ United Kingdom, who is the **data controller** for the personal data described
 in this policy ("we," "us," "our").
 
 Contact: **StrongholdsSupport@shkbot.com**, the support server
-(https://discord.gg/5eHFZybr6n), or the operator on Discord (▽ 𝕘𝕙𝕩𝕤𝕥).
+(https://discord.gg/5eHFZybr6n), or the operator on Discord (▽ 𝕘𝕙𝕩𝕤𝕥, username: ghxstinthesystem).
 
 ## 2. Information We Collect
 
@@ -184,4 +184,4 @@ version is always published at this location.
 For questions about this policy or to exercise your rights, email
 **StrongholdsSupport@shkbot.com**, join the support server
 (https://discord.gg/5eHFZybr6n), or contact the operator on Discord
-(▽ 𝕘𝕙𝕩𝕤𝕥).
+(▽ 𝕘𝕙𝕩𝕤𝕥, username: ghxstinthesystem).
