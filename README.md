@@ -2,7 +2,7 @@
 
 **Effective Date:** 3 November 2023
 
-**Last Updated:** 8 October 2026
+**Last Updated:** 8 October 2026 (evening: automatic deletion after leaving a server)
 
 This policy explains how the Strongholds Mastery Discord bot (in some servers
 shown as "Stronghold Mastery") collects, uses and protects personal data, and
@@ -171,7 +171,7 @@ list.
 | Moderation audit log | The most recent 200 entries per server. Older entries are deleted automatically. |
 | Ban-tracking records | While the name is being tracked. A name confirmed as banned is deleted automatically 60 days after the ban was first detected. To stop a removed name from being added again automatically, we keep that name and its removal date. |
 | Hall of Heroes data | Replaced as the public leaderboards are refreshed. |
-| Data about a server the bot has left | The bot does not currently delete this automatically. We delete it on request from the server's owner or an administrator. |
+| Data about a server the bot has left | Deleted automatically 7 days after the bot leaves the server (the timer is cancelled if the bot is added back within those 7 days), or sooner on request from the server's owner. Server-independent data (ban tracking, Hall of Heroes, player records) is not affected. |
 | Service logs | Rotated automatically by the server's logging system. |
 | Backups | Our hosting provider keeps rolling backups of the server for a short period. Deleted data disappears from them as they are replaced. |
 | Support and data-rights correspondence | As long as needed to deal with the request and keep a record of how it was handled. |
